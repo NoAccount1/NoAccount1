@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoAccount1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoAccount1)](https://github.com/NoAccount1)
 
 <!---
 👋 Hi i'm a junior web developper (actually not graduated) who loves Angular and generally Google.
